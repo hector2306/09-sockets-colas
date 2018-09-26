@@ -27,7 +27,7 @@ class TicketControl {
             this.ultimo = data.ultimo;
             this.tickets = data.tickets;
             this.ultimos4 = data.ultimos4;
-
+       
         }else {
             this.reiniciarConteo();
         }
